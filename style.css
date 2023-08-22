@@ -9,6 +9,7 @@ body{
     border-radius: 40px 10px;
     margin: auto;
     max-width: 400px;
+    min-width: 400px;
     height: 200px;
     background: linear-gradient(45deg, #ac740c 10%, #c26f09 40%, #d6a30b );
     box-shadow: 3px 3px 3px 3px rgba(59, 59, 59, 0.342);
