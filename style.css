@@ -1,0 +1,51 @@
+
+body{
+    height: 640px;
+    background: linear-gradient(45deg, #bd882c 40%, #D98F07, #b38d1b );
+    margin-top: 30vh;
+}
+
+#numeros{
+    border-radius: 40px 10px;
+    margin: auto;
+    max-width: 400px;
+    height: 200px;
+    background: linear-gradient(45deg, #ac740c 10%, #c26f09 40%, #d6a30b );
+    box-shadow: 3px 3px 3px 3px rgba(59, 59, 59, 0.342);
+}
+#botoes{
+    margin-top: -10vh;
+    text-align: center;
+}
+#minutos{
+    color: rgb(241, 241, 253);
+    text-shadow: 3px 3px rgba(59, 59, 59, 0.205);
+    font-size: 3em;
+    display: inline-block;
+    margin-left: 53px;
+}
+#segundos{
+    color: rgb(241, 241, 253);
+    text-shadow: 3px 3px rgba(59, 59, 59, 0.205);
+    font-size: 3em;
+    display: inline-block;
+    margin-left: 53px;
+}
+#milesimos{
+    color: rgb(241, 241, 253);
+    text-shadow: 3px 3px rgba(59, 59, 59, 0.205);
+    font-size: 3em;
+    display: inline-block;
+    margin-left: 53px;
+}
+img{
+    width: 50px;
+}
+#referencia{
+    color:  #362402;
+    margin-top: 40px;
+    text-align: center;
+}
+a{
+    color: #362402;
+}
